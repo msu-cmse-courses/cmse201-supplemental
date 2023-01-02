@@ -1,2 +1,3 @@
-# cmse201-F21-data
-Data files for the Fall 2021 semester of CMSE 201 at MSU.
+# CMSE 201 Supplemental Course Content
+
+This repo contains supplemental images and files that support the CMSE 201 course at Michigan State University.
