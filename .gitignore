@@ -1,0 +1,10 @@
+*.ipynb_checkpoints*
+.idea/
+*.key
+_build/
+*.aux
+.doctrees/*
+html/*
+.DS_store*
+Homework/.DS_Store
+Old_Quizzes/TF_Quiz_S21/.DS_Store
